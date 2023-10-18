@@ -48,6 +48,6 @@ They act as intermediaries between the internal network and external services. W
 
 ## References
 
-Digital Ocean - [https://www.digitalocean.com/community/tutorials/what-is-a-firewall-and-how-does-it-work]
-Simplilearn Blog - [https://www.simplilearn.com/tutorials/cyber-security-tutorial/what-is-firewall]
-Geekforgeeks - [https://www.geeksforgeeks.org/introduction-of-firewall-in-computer-network/]
+1. Digital Ocean - [https://www.digitalocean.com/community/tutorials/what-is-a-firewall-and-how-does-it-work]
+2. Simplilearn Blog - [https://www.simplilearn.com/tutorials/cyber-security-tutorial/what-is-firewall]
+3. Geekforgeeks - [https://www.geeksforgeeks.org/introduction-of-firewall-in-computer-network/]
