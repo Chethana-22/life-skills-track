@@ -34,17 +34,17 @@ They act as intermediaries between the internal network and external services. W
 
 
 ## Advantages of Firewalls
-- Network Security: Firewalls hepl to prevent the unauthoriazed access and protect against external threats
-- Resource Management: They can be used for managing network resources, like bandwidth or CPU usage
-- Application Control: Firewalls allow you to control what applications are allowed on a computer system
-- Data Encryption: Some firewalls have built in encryption capabilities that encrypt data before it leaves your network
-- Protection Against Malware: By blocking malicious traffic, firewalls help in securing your system from malware attacks
-- Intrusion Detection/Prevention: They help identify any malicious activity that may occur within an organization's network
+- **Network Security**: Firewalls hepl to prevent the unauthoriazed access and protect against external threats
+- **Resource Management**: They can be used for managing network resources, like bandwidth or CPU usage
+- **Application Control**: Firewalls allow you to control what applications are allowed on a computer system
+- **Data Encryption**: Some firewalls have built in encryption capabilities that encrypt data before it leaves your network
+- **Protection Against Malware**: By blocking malicious traffic, firewalls help in securing your system from malware attacks
+- **Intrusion Detection/Prevention**: They help identify any malicious activity that may occur within an organization's network
 
 ## Limitations of Firewalls
-- Complexity: Setting up and maintaining firewalls requires technical knowledge
-- Performance Overhead: Some firewall solutions may have performance overheads that affect overall network performance.
-- Limited by Resources: The number of rules that can be created within a firewall will depend on the amount of available memory and processing power.
+- **Complexity**: Setting up and maintaining firewalls requires technical knowledge
+- **Performance Overhead**: Some firewall solutions may have performance overheads that affect overall network performance.
+- **Limited by Resources**: The number of rules that can be created within a firewall will depend on the amount of available memory and processing power.
 
 ## References
 
